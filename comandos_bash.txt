@@ -1,0 +1,3 @@
+ls  (List)                    -> lista arquivos
+cd  (Change Directory)        -> move entre diretórios
+pwd (Print Working Directory) -> mostra diretório de trabalho
