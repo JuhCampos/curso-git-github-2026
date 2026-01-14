@@ -1,4 +1,4 @@
-este arquivo contém informações adicionais para git
+Este arquivo contém informações adicionais para git
 
 - Primeiro comando
 - Segundo comando
@@ -6,3 +6,11 @@ este arquivo contém informações adicionais para git
 # Comandos mais genéricos
 
 - comandos estranhos
+
+# Mais comandos!!!
+
+
+fdkfjnf ek rk
+
+gfndgif
+kdf vkvm
