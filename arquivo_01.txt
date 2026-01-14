@@ -1,1 +1,2 @@
-meu Deus que doidera este curso. Tá bem legal!
+<<<<<<< HEAD
+meu Deus que doidera este curs! Tá bem legal!
