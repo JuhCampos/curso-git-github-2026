@@ -1,4 +1,4 @@
-este arquivo contém informações adicionais para git
+Este arquivo contém informações adicionais para git
 
 - Primeiro comando
 - Segundo comando
