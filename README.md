@@ -1,12 +1,12 @@
-### Práticas de Git e GitHub
+# Práticas de Git e GitHub
 
 
 
-#### Este repositório contém os exercícios e projetos práticos desenvolvidos para aprender a trabalhar com controle de versão e repositórios remotos.
+## Este repositório contém os exercícios e projetos práticos desenvolvidos para aprender a trabalhar com controle de versão e repositórios remotos.
 
 
 
-###### Ferramentas
+### Ferramentas
 
 **Git:** Para controle de versão
 
@@ -16,7 +16,7 @@
 
 
 
-###### O que está sendo praticado
+### O que está sendo praticado
 
 **Comandos Essenciais:** Uso de `git add`, `git commit`, `git push` e `git pull`
 
@@ -28,7 +28,7 @@
 
 
 
-###### Referência
+### Referência
 
 Projeto desenvolvido como parte do \[Git e Github](https://cursos.teomewhy.org/material\_2025)
 
