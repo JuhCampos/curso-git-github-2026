@@ -1,9 +1,12 @@
-ls  (List)                    -> lista arquivos
-cd  (Change Directory)        -> move entre diretórios
-pwd (Print Working Directory) -> mostra diretório de trabalho
-cat (concatenate)             -> embora o usemos muito para ler arquivos, a função original dele é juntar o conteúdo de dois ou mais arquivos em um só
-rm (remove)                   -> remove arquivo ou diretório
-rm - rf                       -> remove de forma recursiva e forçada todos os diretórios
+Guia de Referência: Comandos Bash
 
-fodase
+Navegação
+ls: Lista arquivos e diretórios.
+cd: Altera o diretório de trabalho.
+pwd: Exibe o caminho do diretório atual.
+
+Manipulação
+cat: Visualiza o conteúdo de arquivos.
+rm: Remove arquivos.
+rm -rf: Remove diretórios de forma recursiva e forçada (usar com cautela).
 

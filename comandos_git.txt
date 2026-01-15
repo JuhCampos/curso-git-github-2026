@@ -1,18 +1,23 @@
-git init .           -> Cria um repo git na pasta atual
-git status           -> Mostra o status do trabalho (de cada arquivo)
-git add nome_arquivo -> Adiciona arquivo para ser commitado
-git commit -m "msg"  -> Faz commit do que estava para ser commitado
-git log              -> Mostra todo o histórico de commit 
->>>>>>> ana
+COMANDOS ESSENCIAIS - GIT
 
-## FLUXO DE TRABALHO
-1. criar o diretório (pasta) do projeto
-2. iniciar o git dentro do diretório criado (git init .)
-3. edita ou cria arquivos
-4. git status
-5. git add <nome arquivo> ou git add . (pegará todos os arquivos na pasta que está)
-6. git status
-7. git commit -m "Mensagem estranha"
-8. git status
-9. volta para o passo 3.
+[INICIALIZAÇÃO E MONITORAMENTO]
+git init .           -> Inicializa um repositório Git no diretório atual.
+git status           -> Exibe o estado atual dos arquivos (modificados, preparados ou não rastreados).
+git log              -> Exibe o histórico cronológico de commits do projeto.
+
+[CICLO DE VERSIONAMENTO]
+git add <arquivo>    -> Prepara um arquivo específico para o próximo commit (staging area).
+git add .            -> Prepara todas as alterações do diretório para o commit.
+git commit -m "msg"  -> Grava permanentemente as alterações preparadas no histórico.
+
+----------------------------------------------------------------------
+FLUXO DE TRABALHO PADRÃO (WORKFLOW)
+
+1. Preparação: Criar ou acessar o diretório do projeto via terminal.
+2. Inicialização: Executar 'git init .' para começar o rastreamento.
+3. Desenvolvimento: Criar ou editar arquivos.
+4. Revisão: Utilizar 'git status' para verificar as modificações.
+5. Seleção: Adicionar as mudanças com 'git add .' ou arquivos específicos.
+6. Consolidação: Executar 'git commit -m "Descrição objetiva da alteração"'.
+7. Repetição: Retornar ao passo 3 para novas implementações.
 

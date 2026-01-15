@@ -1,2 +1,1 @@
-<<<<<<< HEAD
-meu Deus que doidera este curs! Tá bem legal!
+Este arquivo faz parte do conjunto de alterações da branch 'descricao'

@@ -1,3 +1,2 @@
-esse é um arquivo tosco
-
-mais uma linha nesse arquivo
+Notas sobre a utilização de branches: 
+o uso desta branch 'descricao' permite que melhorias na documentação sejam validadas de forma isolada antes de serem incorporadas à branch principal
