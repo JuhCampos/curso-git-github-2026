@@ -1,1 +1,2 @@
-Notas sobre a utilização de branches: o uso desta branch 'descricao' permite que melhorias na documentação sejam validadas de forma isolada antes de serem incorporadas à branch principal
+Notas sobre a utilização de branches: 
+o uso desta branch 'descricao' permite que melhorias na documentação sejam validadas de forma isolada antes de serem incorporadas à branch principal
