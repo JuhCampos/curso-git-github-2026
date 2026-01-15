@@ -6,13 +6,18 @@ Este repositório contém os exercícios e projetos práticos desenvolvidos para
 
 
 
+
+
 ### Ferramentas
 
 **Git:** Para controle de versão
 
-**GitHub:** Para hospedagem do código na nuvem.
+**GitHub:** Para hospedagem do código na nuvem
 
 **VS Code:** Editor de código utilizado
+
+
+
 
 
 
@@ -26,6 +31,9 @@ Este repositório contém os exercícios e projetos práticos desenvolvidos para
 **Gestão de Branches:** Criação e navegação entre diferentes ramos de desenvolvimento
 
 **GitFlow:** Aplicação de um fluxo de trabalho organizado (etapa final do curso)
+
+
+
 
 
 
