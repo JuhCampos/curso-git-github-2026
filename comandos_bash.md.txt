@@ -1,0 +1,12 @@
+# Guia de Referência: Comandos Bash
+
+##  Navegação
+* **`ls`**: Lista arquivos e diretórios.
+* **`cd`**: Altera o diretório de trabalho.
+* **`pwd`**: Exibe o caminho do diretório atual.
+
+##  Manipulação
+* **`cat`**: Visualiza o conteúdo de arquivos.
+* **`rm`**: Remove arquivos.
+* **`rm -rf`**: Remove diretórios de forma recursiva e forçada (usar com cautela).
+
