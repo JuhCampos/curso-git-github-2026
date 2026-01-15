@@ -16,6 +16,7 @@ Este repositório contém os exercícios e projetos práticos desenvolvidos para
 
 
 
+
 ### O que está sendo praticado
 
 **Comandos Essenciais:** Uso de `git add`, `git commit`, `git push` e `git pull`
@@ -25,6 +26,7 @@ Este repositório contém os exercícios e projetos práticos desenvolvidos para
 **Gestão de Branches:** Criação e navegação entre diferentes ramos de desenvolvimento
 
 **GitFlow:** Aplicação de um fluxo de trabalho organizado (etapa final do curso)
+
 
 
 
