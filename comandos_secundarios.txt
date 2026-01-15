@@ -1,16 +1,13 @@
-Este arquivo contém informações adicionais para git
+COMANDOS AUXILIARES DE GERENCIAMENTO
 
-- Primeiro comando
-- Segundo comando
+[REMOÇÃO E LIMPEZA]
+rm <nome_arquivo>   -> Remove um arquivo do diretório.
+rm -rf <diretorio>  -> Remove diretórios de forma recursiva e forçada. 
+                       (Nota: Comando de uso crítico, exige cautela).
 
-# Comandos mais genéricos
+[HISTÓRICO E REVISÃO]
+git log             -> Exibe o histórico detalhado de commits realizados.
+git status          -> Verifica o estado atual dos arquivos antes de novas ações.
 
-- comandos estranhos
-
-# Mais comandos!!!
-
-
-fdkfjnf ek rk
-
-gfndgif
-kdf vkvm
+[CORREÇÃO DE AÇÕES]
+git restore --staged <arquivo> -> Remove um arquivo da área de preparação (staging area).
