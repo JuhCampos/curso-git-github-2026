@@ -2,7 +2,7 @@
 
 
 
-## Este repositório contém os exercícios e projetos práticos desenvolvidos para aprender a trabalhar com controle de versão e repositórios remotos.
+Este repositório contém os exercícios e projetos práticos desenvolvidos para aprender a trabalhar com controle de versão e repositórios remotos
 
 
 
@@ -30,5 +30,5 @@
 
 ### Referência
 
-Projeto desenvolvido como parte do \[Git e Github](https://cursos.teomewhy.org/material\_2025)
+Projeto desenvolvido como parte do Git e Github (https://cursos.teomewhy.org/material\_2025)
 
