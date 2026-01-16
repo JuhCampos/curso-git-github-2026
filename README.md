@@ -42,3 +42,5 @@ Este repositório contém os exercícios e projetos práticos desenvolvidos para
 
 Projeto desenvolvido como parte do Git e Github (https://cursos.teomewhy.org/material\_2025)
 
+Agenda:[teomewhy.org](https://teomewhy.org/schedule)
+Canal do Yotube: [Curso Git 2026](https://youtube.com/teomewhy)
