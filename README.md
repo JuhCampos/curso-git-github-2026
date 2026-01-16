@@ -4,7 +4,8 @@
 
 Este repositório contém os exercícios e projetos práticos desenvolvidos para aprender a trabalhar com controle de versão e repositórios remotos
 
-
+Segue o link: 
+[Curso Git 2026](https://cursos.teomewhy.org/material_2025)
 
 
 
